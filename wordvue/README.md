@@ -12,7 +12,7 @@ yarn run serve
 
 ### Install json server 
 ```
-$ npm i json-server
+$ npm install -g json-server
 $ json-server src/assets/db.json
 ```
 ### Compiles and minifies for production

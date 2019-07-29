@@ -2,5 +2,5 @@ run:
 	yarn run serve
 
 
-server:
+serve:
 	json-server src/assets/db.json
